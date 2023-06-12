@@ -1,13 +1,12 @@
 <template>
   <div>
-    <h1>
-
-    </h1>
+    <Navbar />
   </div>
 </template>
 
-<script >
-
+<script>export default {
+  components: {}
+}
 </script>
 
 <style>

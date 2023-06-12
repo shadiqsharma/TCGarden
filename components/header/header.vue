@@ -14,7 +14,7 @@
               </a></h1>
               <h1 class="font-extrabold tracking-tight text-center text-white text-7xl lg:text-left xl:pr-32">TC GARDEN RESORT</h1><br/>
 
-              <div class="w-full md:w-auto p-2"><a class="block w-full px-12 py-3.5 text-lg text-center text-white font-bold bg-yellow-500 hover:bg-yellow-600 focus:ring-4 focus:ring-gray-600 rounded-md" href="#">Book Now</a></div>
+              <div class="w-auto md:w-auto p-2"><a class="block w-full px-12 py-3.5 text-lg text-center text-white font-bold bg-yellow-500 hover:bg-yellow-600 focus:ring-4 focus:ring-gray-600 rounded-md" href="#">Book Now</a></div>
             </div>
             <div class=" items-center justify-center w-full h-full max-w-sm mt-20 lg:mt-0 lg:w-1/3 ">
 
