@@ -9,9 +9,12 @@
           <div class="flex flex-col items-center h-full lg:flex-row">
             <div class="flex flex-col items-center justify-center w-full h-full lg:w-2/3 lg:items-start">
 
-              <h1 class="font-extrabold tracking-tight text-center text-white text-3xl lg:text-left xl:pr-32">Welcome To</h1>
+              <h1 class="font-extrabold tracking-tight text-center text-white text-3xl lg:text-left xl:pr-32"><a href="#_" class="relative flex items-center h-full pr-6 ">
+                <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686569834/TC/TC_Garden_White_meecmy.png" alt="tcgarden_logo" class="h-20">
+              </a></h1>
               <h1 class="font-extrabold tracking-tight text-center text-white text-7xl lg:text-left xl:pr-32">TC GARDEN RESORT</h1><br/>
-              <button class="text-center text-white bg-yellow-500 w-80 h-10 rounded-md"> BOOK NOW! </button>
+
+              <div class="w-full md:w-auto p-2"><a class="block w-full px-12 py-3.5 text-lg text-center text-white font-bold bg-yellow-500 hover:bg-yellow-600 focus:ring-4 focus:ring-gray-600 rounded-md" href="#">Book Now</a></div>
             </div>
             <div class=" items-center justify-center w-full h-full max-w-sm mt-20 lg:mt-0 lg:w-1/3 ">
 

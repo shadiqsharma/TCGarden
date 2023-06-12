@@ -1,7 +1,7 @@
 <template>
   <div class="relative flex items-center justify-between w-full h-20 px-8 ">
     <a href="#_" class="relative flex items-center h-full pr-6 ">
-      <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686398197/TC/TC_Garden_ipd1t2.png" alt="Your Logo" class="h-20">
+      <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686569834/TC/TC_Garden_White_meecmy.png" alt="tcgarden_logo" class="h-20">
       <span class="text-blue-700">.</span>
     </a>
     <nav
