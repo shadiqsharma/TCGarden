@@ -2,7 +2,7 @@
     <div>
       <section class="py-10 bg-gray-50 overflow-hidden">
         <div class="container mx-auto px-4">
-          <div class="py-16 px-8 mb-8 bg-white rounded-3xl shadow-md">
+          <div class="py-16 px-8 mb-8 bg-white rounded-3xl shadow-sm">
             <div class="max-w-7xl mx-auto">
               <div class="flex flex-wrap items-center justify-between -m-4">
                 <div class="w-auto p-4"><a class="inline-block w-60" href="#"><img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686398197/TC/TC_Garden_ipd1t2.png" alt=""></a></div>
