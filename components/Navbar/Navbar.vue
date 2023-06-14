@@ -50,7 +50,7 @@
       </button>
       <ul v-show="showMenu" class="fixed top-0 left-0 w-screen h-screen bg-black bg-opacity-90 z-50 flex flex-col justify-center items-center">
         <li class="mb-4">
-          <nuxt-link to="/home" class="relative text-xl font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-sm text-white">
+          <nuxt-link to="/" class="relative text-xl font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-sm text-white">
             <span class="block">Home</span>
           </nuxt-link>
         </li>
