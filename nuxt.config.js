@@ -15,7 +15,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script: [
-      { src: '/_nuxt/alpine.js', body: true}
+
       ]
   },
 
@@ -25,6 +25,8 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    '~plugins/OwlCarousel.client.js',
+    '~/plugins/click-outside.js',
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

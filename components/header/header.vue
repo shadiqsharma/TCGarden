@@ -4,7 +4,6 @@
         <div class="absolute inset-0 w-full h-full bg-gray-900 opacity-25"></div>
         <div class="absolute inset-0 w-full h-64 opacity-50 bg-gradient-to-b from-black to-transparent"></div>
 <!--        Navbar -->
-        <Navbar />
         <div class="relative z-10 max-w-6xl px-10 py-40 mx-auto">
           <div class="flex flex-col items-center h-full lg:flex-row">
             <div class="flex flex-col items-center justify-center w-full h-full lg:w-2/3 lg:items-start">
