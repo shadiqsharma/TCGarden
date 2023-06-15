@@ -1,6 +1,6 @@
 <template>
   <div>
-  <div class="fixed w-full z-50 flex items-center justify-between h-20 px-8 bg-yellow-800 bg-opacity-50">
+  <div class="fixed w-full z-50 flex items-center justify-between h-20 px-8 bg-gray-800 bg-opacity-50">
     <a href="/" class="relative flex items-center h-full pr-6 ">
       <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686569834/TC/TC_Garden_White_meecmy.png" alt="tcgarden_logo" class="h-20">
     </a>
@@ -50,9 +50,9 @@
       </button>
       <ul v-show="showMenu" class="fixed top-0 left-0 w-screen h-screen bg-black bg-opacity-90 z-50 flex flex-col justify-center items-center">
         <li class="mb-4">
-          <nuxt-link to="/" class="relative text-xl font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-sm text-white">
+          <a href="/"  class="relative text-xl font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-sm text-white">
             <span class="block">Home</span>
-          </nuxt-link>
+          </a>
         </li>
         <li class="mb-4">
           <a href="#"

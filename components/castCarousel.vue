@@ -19,6 +19,18 @@
         <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572038/TC/TCG_room2_qjfe3b.jpg" class="w-full h-72 object-cover rounded-2xl">
         <p class="text-center px-2 py-4">Garden</p>
       </div>
+      <div class="container px-2">
+        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572325/TC/luxury-resort-hotel-room-2022-11-14-06-58-44-utc_apcjas.jpg" class="w-full h-72 object-cover rounded-2xl">
+        <p class="text-center px-2 py-4">Bedroom</p>
+      </div>
+      <div class="container px-2">
+        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572064/TC/TCFront_dezovr.webp" class="w-full h-72 object-cover rounded-2xl">
+        <p class="text-center px-2 py-4">Bathroom</p>
+      </div>
+      <div class="container px-2">
+        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572038/TC/TCG_room2_qjfe3b.jpg" class="w-full h-72 object-cover rounded-2xl">
+        <p class="text-center px-2 py-4">Garden</p>
+      </div>
     </carousel>
       </div>
     </div>
