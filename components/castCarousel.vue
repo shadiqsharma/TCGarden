@@ -33,6 +33,7 @@
       </div>
     </carousel>
       </div>
+
     </div>
   </section>
 </template>

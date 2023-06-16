@@ -24,13 +24,14 @@
           <div class="py-1 rounded-md bg-white shadow-xs">
             <nuxt-link to="/deluxeking" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe King Villa</nuxt-link>
             <nuxt-link to="/deluxetriple" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe Triple Villa</nuxt-link>
-            <nuxt-link to="/" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe Quad Villa</nuxt-link>
+            <nuxt-link to="/deluxequad" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe Quad Villa</nuxt-link>
           </div>
         </div>
       </a>
-      <nuxt-link to="/" class="relative text-lg font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-white md:text-sm">
+<!--     Attraction Link Codes -->
+<!--      <nuxt-link to="/" class="relative text-lg font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-white md:text-sm">
         <span class="block">Attraction</span>
-      </nuxt-link>
+      </nuxt-link>-->
 
       <nuxt-link to="/about" class="relative text-lg font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-white md:text-sm">
         <span class="block">About Us</span>
@@ -65,17 +66,17 @@
               <div class="py-1 rounded-md bg-white shadow-xs">
                 <nuxt-link to="/deluxeking" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe King Villa</nuxt-link>
                 <nuxt-link to="/deluxetriple" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe Triple Villa</nuxt-link>
-                <nuxt-link to="/" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe Quad Villa</nuxt-link>
+                <nuxt-link to="/deluxequad" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe Quad Villa</nuxt-link>
               </div>
             </div>
           </a>
         </li>
-
-        <li class="mb-4">
+        <!--     Attraction Link Codes -->
+<!--        <li class="mb-4">
           <a href="#" class="relative text-xl font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-white md:text-sm text-white">
             <span class="block">Attraction</span>
           </a>
-        </li>
+        </li>-->
         <li class="mb-4">
           <a href="/about" class="relative text-xl font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-white md:text-sm text-white">
             <span class="block">About Us</span>

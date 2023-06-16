@@ -1,6 +1,6 @@
 <template>
   <div>
-    <triple-carousel/>
+    <quad-carousel/>
     <section class="py-2 bg-gray-50 overflow-hidden">
     <div class="container mx-auto px-4">
       <div class="py-16 px-8 md:px-16 rounded-3xl bg-white" >
@@ -13,7 +13,7 @@
                 </svg>
               </div>
               <div class="flex-1">
-                <p class="text-sm text-gray-100 font-bold w-24 ">3 people</p>
+                <p class="text-sm text-gray-100 font-bold w-24 ">4 people</p>
               </div>
             </div>
           </div>
@@ -25,7 +25,7 @@
                 </svg>
               </div>
               <div class="flex-1">
-                <p class="text-sm text-gray-100 font-bold ">1 King-Sized Bed & 1 Single Bed</p>
+                <p class="text-sm text-gray-100 font-bold ">2 King-Sized Bed</p>
               </div>
             </div>
           </div>
@@ -61,7 +61,7 @@
             </div>
           </div>
         </div>
-        <p class="mb-14 text-lg text-gray-800 font-bold md:max-w-4xl">Immerse yourself in the comfort of our Deluxe Triple Villa at our Garden Resort in Langkawi. Uniquely designed to cater to families or small groups, this villa boasts a lavish king-size bed and a cozy single bed, both set within a spacious interior that mirrors the beauty of the surrounding nature. The villa features a private veranda, allowing you to revel in the breathtaking views of the lush gardens. Privacy and tranquillity are at the heart of its design, making it a perfect sanctuary for those seeking an unparalleled garden resort experience. A stay in our Deluxe Triple Villa promises to elevate your Langkawi holiday to an extraordinary realm of refinement and serenity. </p>
+        <p class="mb-14 text-lg text-gray-800 font-bold md:max-w-4xl">Immerse yourself in the comfort of our Deluxe Quad Villa at our Garden Resort in Langkawi. Uniquely designed to cater to families or small groups, this villa boasts 2 lavish king-size beds, both set within a spacious interior that mirrors the beauty of the surrounding nature. The villa features a private veranda, allowing you to revel in the breathtaking views of the lush gardens. Privacy and tranquillity are at the heart of its design, making it a perfect sanctuary for those seeking an unparalleled garden resort experience. A stay in our Deluxe Quad Villa promises to elevate your Langkawi holiday to an extraordinary realm of refinement and serenity. </p>
 
       </div>
     </div>

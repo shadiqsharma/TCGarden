@@ -3,7 +3,7 @@
     <div class="container mx-auto px-4">
       <div class="py-16 px-8 bg-white rounded-3xl shadow-sm">
         <div class="mb-12 md:max-w-4xl mx-auto text-center">
-          <h2 class="font-heading mb-6 text-4xl md:text-5xl lg:text-6xl text-gray-900 font-black tracking-tight">Deluxe Triple Villa</h2>
+          <h2 class="font-heading mb-6 text-4xl md:text-5xl lg:text-6xl text-gray-900 font-black tracking-tight">Deluxe Quad Villa</h2>
         </div>
         <carousel :responsive="{0:{items:1,nav:false},600:{items:2,nav:false},1024:{items:3,nav:false}}"
                   class="w-auto h-auto">
@@ -20,14 +20,13 @@
             <p class="text-center px-2 py-4">Garden</p>
           </div>
         </carousel>
-
       </div>
     </div>
   </section>
 </template>
 <script>
 export default {
-  name: 'triple-carousel'
+  name: 'quadCarousel'
 }
 </script>
 

@@ -3,7 +3,7 @@
   <cast-carousel/>
     <section class="py-2 bg-gray-50 overflow-hidden">
       <div class="container mx-auto px-4">
-        <div class="py-16 px-8 md:px-16 rounded-3xl bg-white shadow-sm" >
+        <div class="py-16 px-8 md:px-16 rounded-3xl bg-white" >
           <div class="flex pb-10 flex-wrap -m-2">
             <div class="w-auto p-2 ">
               <div class="flex flex-wrap px-3 py-2 bg-yellow-500 rounded-full shadow-lg ">
@@ -13,7 +13,7 @@
                   </svg>
                 </div>
                 <div class="flex-1">
-                  <p class="text-sm text-gray-100 font-bold w-24 ">2 people   </p>
+                  <p class="text-sm text-gray-100 font-bold w-24 ">3 people</p>
                 </div>
               </div>
             </div>
@@ -25,7 +25,7 @@
                   </svg>
                 </div>
                 <div class="flex-1">
-                  <p class="text-sm text-gray-100 font-bold">King-Sized Bed</p>
+                  <p class="text-sm text-gray-100 font-bold ">1 King-Sized Bed </p>
                 </div>
               </div>
             </div>
@@ -61,7 +61,7 @@
               </div>
             </div>
           </div>
-          <p class="mb-14 text-lg text-gray-800 font-bold md:max-w-4xl">Experience the serenity in our Deluxe King Villa at our Garden Resort in Langkawi. This spacious villa, furnished with a plush king-size bed, boasts of contemporary design and elegant interiors that seamlessly blend with the surrounding tropical beauty. The villa's unique layout offers ultimate privacy, making it an idyllic sanctuary for those seeking an unparalleled resort experience. Your stay in our Deluxe King Villa will surely imbue you with tranquillity and refinement, rejuvenating your holiday in Langkawi.</p>
+          <p class="mb-14 text-lg text-gray-800 font-bold md:max-w-4xl">Immerse yourself in the comfort of our Deluxe King Villa at our Garden Resort in Langkawi. Uniquely designed to cater to families or small groups, this villa boasts a lavish king-size bed, within a spacious interior that mirrors the beauty of the surrounding nature. The villa features a private veranda, allowing you to revel in the breathtaking views of the lush gardens. Privacy and tranquillity are at the heart of its design, making it a perfect sanctuary for those seeking an unparalleled garden resort experience. A stay in our Deluxe King Villa promises to elevate your Langkawi holiday to an extraordinary realm of refinement and serenity. </p>
 
         </div>
       </div>
