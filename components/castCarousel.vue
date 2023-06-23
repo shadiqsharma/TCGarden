@@ -8,28 +8,28 @@
     <carousel :responsive="{0:{items:1,nav:false},600:{items:2,nav:false},1024:{items:3,nav:false}}"
               class="w-auto h-auto">
       <div class="container px-2">
-        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572325/TC/luxury-resort-hotel-room-2022-11-14-06-58-44-utc_apcjas.jpg" class="w-full h-72 object-cover rounded-2xl">
+        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1687524716/TC/deluxe%20king%20rooom/IMG_2022_kclx3h.jpg" class="w-full h-72 object-cover rounded-2xl">
         <p class="text-center px-2 py-4">Bedroom</p>
       </div>
       <div class="container px-2">
-        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572064/TC/TCFront_dezovr.webp" class="w-full h-72 object-cover rounded-2xl">
-        <p class="text-center px-2 py-4">Bathroom</p>
+        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1687524716/TC/deluxe%20king%20rooom/IMG_2024_tmy2ry.jpg" class="w-full h-72 object-cover rounded-2xl">
+        <p class="text-center px-2 py-4">Bed View</p>
       </div>
       <div class="container px-2">
         <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572038/TC/TCG_room2_qjfe3b.jpg" class="w-full h-72 object-cover rounded-2xl">
         <p class="text-center px-2 py-4">Garden</p>
       </div>
       <div class="container px-2">
-        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572325/TC/luxury-resort-hotel-room-2022-11-14-06-58-44-utc_apcjas.jpg" class="w-full h-72 object-cover rounded-2xl">
-        <p class="text-center px-2 py-4">Bedroom</p>
+        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1687524716/TC/deluxe%20king%20rooom/IMG_2040_kqoyxz.jpg" class="w-full h-72 object-cover rounded-2xl">
+        <p class="text-center px-2 py-4">Toilet</p>
       </div>
       <div class="container px-2">
         <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572064/TC/TCFront_dezovr.webp" class="w-full h-72 object-cover rounded-2xl">
-        <p class="text-center px-2 py-4">Bathroom</p>
+        <p class="text-center px-2 py-4">Garden View</p>
       </div>
       <div class="container px-2">
-        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572038/TC/TCG_room2_qjfe3b.jpg" class="w-full h-72 object-cover rounded-2xl">
-        <p class="text-center px-2 py-4">Garden</p>
+        <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1687524719/TC/deluxe%20king%20rooom/IMG_2051_cgjwyp.jpg" class="w-full h-72 object-cover rounded-2xl">
+        <p class="text-center px-2 py-4">Room View</p>
       </div>
     </carousel>
       </div>

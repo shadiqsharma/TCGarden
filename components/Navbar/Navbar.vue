@@ -24,7 +24,8 @@
           <div class="py-1 rounded-md bg-white shadow-xs">
             <nuxt-link to="/deluxeking" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe King Villa</nuxt-link>
             <nuxt-link to="/deluxetriple" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe Triple Villa</nuxt-link>
-            <nuxt-link to="/deluxequad" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe Quad Villa</nuxt-link>
+
+            <nuxt-link to="/deluxetwin" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe Twin Villa</nuxt-link>
           </div>
         </div>
       </a>
@@ -66,7 +67,7 @@
               <div class="py-1 rounded-md bg-white shadow-xs">
                 <nuxt-link to="/deluxeking" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe King Villa</nuxt-link>
                 <nuxt-link to="/deluxetriple" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe Triple Villa</nuxt-link>
-                <nuxt-link to="/deluxequad" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe Quad Villa</nuxt-link>
+                <nuxt-link to="/deluxetwin" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe Twin Villa</nuxt-link>
               </div>
             </div>
           </a>

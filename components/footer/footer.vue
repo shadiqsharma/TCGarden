@@ -8,7 +8,7 @@
                 <div class="w-auto p-4"><a class="inline-block w-60" href="#"><img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686398197/TC/TC_Garden_ipd1t2.png" alt=""></a></div>
                 <div class="w-auto p-4">
                   <ul class="-m-6">
-                    <li class="inline-flex p-6"><a class="inline-block text-gray-500 hover:text-gray-600 font-bold" href="#">Terms & Condition</a></li>
+                    <li class="inline-flex p-6"><a class="inline-block text-gray-500 hover:text-gray-600 font-bold" href="/terms">Terms & Condition</a></li>
                     <li class="inline-flex p-6"><a class="inline-block text-gray-500 hover:text-gray-600 font-bold" href="#">Privacy Policy</a></li>
                     <li class="inline-flex p-6"><a class="inline-block text-gray-500 hover:text-gray-600 font-bold" href="#">Cancellation Policy</a></li>
                     <li class="inline-flex p-6"><a class="inline-block text-gray-500 hover:text-gray-600 font-bold" href="#">Contact Us</a></li>

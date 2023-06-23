@@ -10,42 +10,39 @@
               </div>
               <div class="flex flex-wrap -m-4 mb-6">
                 <div class="w-full md:w-1/2 p-4">
-                  <div class="h-full bg-gray-100 rounded-3xl shadow-lg"><img class="w-full rounded-3xl shadow-lg" src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572326/TC/a-bed-in-the-room-with-a-picture-frame-on-the-wall-2021-09-01-00-22-38-utc_v6lcce.jpg" alt="">
+                  <div class="h-full bg-gray-100 rounded-3xl shadow-lg"><img class="w-full h-80 object-cover rounded-3xl shadow-lg img-standard" src="https://res.cloudinary.com/dgsljij3o/image/upload/v1687523570/TC/IMG_2035_2_fci4hp.jpg" alt="">
                     <div class="p-8"><nuxt-link to="/deluxeking" class="group inline-block mb-4">
                       <h3 class="font-heading text-2xl text-gray-900 hover:text-gray-700 group-hover:underline font-black">Deluxe King Villa</h3></nuxt-link>
                       <p class="text-sm text-gray-500 font-bold">RM 150.00 pernight <br/><span class="inline-block mb-4 text-xs text-orange-500 font-bold tracking-widest">Breakfast for 2 paxs included</span></p>
+                      <div class="w-full md:w-auto p-2"><a class="block w-full px-12 py-3.5 text-lg text-center text-white font-bold bg-yellow-500 hover:bg-yellow-600 focus:ring-4 focus:ring-gray-600 rounded-md" href="https://book-directonline.com/properties/tcgardenresortlangkawidirect
+">Book Now</a></div>
                     </div>
                   </div>
                 </div>
                 <div class="w-full md:w-1/2 p-4">
-                  <div class="h-full bg-gray-100 rounded-3xl shadow-lg"><img class="w-full rounded-3xl shadow-lg" src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572326/TC/a-bed-in-the-room-with-a-picture-frame-on-the-wall-2021-09-01-00-22-38-utc_v6lcce.jpg" alt="">
+                  <div class="h-full bg-gray-100 rounded-3xl shadow-lg"><img class="w-full h-80 object-cover rounded-3xl shadow-lg img-standard" src="https://res.cloudinary.com/dgsljij3o/image/upload/v1687523757/TC/WhatsApp_Image_2023-06-21_at_19.51.25_2_izitwr.jpg" alt="">
                     <div class="p-8"><nuxt-link to="/deluxetriple" class="group inline-block mb-4">
                       <h3 class="font-heading text-2xl text-gray-900 hover:text-gray-700 group-hover:underline font-black">Deluxe Triple Villa</h3></nuxt-link>
                       <p class="text-sm text-gray-500 font-bold">RM 185.00 pernight <br/><span class="inline-block mb-4 text-xs text-orange-500 font-bold tracking-widest">Breakfast for 3 paxs included</span></p>
-                    </div>
-                  </div>
-                </div>
-                <div class="w-full md:w-1/2 p-4">
-                  <div class="h-full bg-gray-100 rounded-3xl shadow-lg"><img class="w-full rounded-3xl shadow-lg" src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572326/TC/a-bed-in-the-room-with-a-picture-frame-on-the-wall-2021-09-01-00-22-38-utc_v6lcce.jpg" alt="">
-                    <div class="p-8"><nuxt-link to="/" class="group inline-block mb-4">
-                      <h3 class="font-heading text-2xl text-gray-900 hover:text-gray-700 group-hover:underline font-black">Deluxe Quad Villa</h3></nuxt-link>
-                      <p class="text-sm text-gray-500 font-bold">RM 220.00 pernight <br/><span class="inline-block mb-4 text-xs text-orange-500 font-bold tracking-widest">Breakfast for 4 paxs included</span></p>
-                    </div>
-                  </div>
-                </div>
-                <div class="w-full md:w-1/2 p-4">
-                  <div class="h-full bg-gray-100 rounded-3xl shadow-lg"><img class="w-full rounded-3xl shadow-lg" src="https://res.cloudinary.com/dgsljij3o/image/upload/v1686572326/TC/a-bed-in-the-room-with-a-picture-frame-on-the-wall-2021-09-01-00-22-38-utc_v6lcce.jpg" alt="">
-                    <div class="p-8"><a class="group inline-block mb-4" href="#">
-                      <h3 class="font-heading text-2xl text-gray-900 hover:text-gray-700 group-hover:underline font-black">Deluxe Quad Villa</h3></a>
-                      <p class="text-sm text-gray-500 font-bold">RM 220.00 pernight <br/><span class="inline-block mb-4 text-xs text-orange-500 font-bold tracking-widest">Breakfast for 4 paxs included</span></p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="flex flex-wrap md:justify-center -m-2">
-                <div class="w-full md:w-auto p-2"><a class="block w-full px-12 py-3.5 text-lg text-center text-white font-bold bg-yellow-500 hover:bg-yellow-600 focus:ring-4 focus:ring-gray-600 rounded-md" href="https://book-directonline.com/properties/tcgardenresortlangkawidirect
+                      <div class="w-full md:w-auto p-2"><a class="block w-full px-12 py-3.5 text-lg text-center text-white font-bold bg-yellow-500 hover:bg-yellow-600 focus:ring-4 focus:ring-gray-600 rounded-md" href="https://book-directonline.com/properties/tcgardenresortlangkawidirect
 ">Book Now</a></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="w-full md:w-1/2 p-4">
+                  <div class="h-full bg-gray-100 rounded-3xl shadow-lg"><img class="w-full h-80 object-cover rounded-3xl shadow-lg img-standard" src="https://res.cloudinary.com/dgsljij3o/image/upload/v1687523757/TC/WhatsApp_Image_2023-06-21_at_19.51.25_2_izitwr.jpg" alt="">
+                    <div class="p-8"><nuxt-link to="/deluxetriple" class="group inline-block mb-4">
+                      <h3 class="font-heading text-2xl text-gray-900 hover:text-gray-700 group-hover:underline font-black">Deluxe Twin Villa</h3></nuxt-link>
+                      <p class="text-sm text-gray-500 font-bold">RM 150.00 pernight <br/><span class="inline-block mb-4 text-xs text-orange-500 font-bold tracking-widest">Breakfast for 2 paxs included</span></p>
+                      <div class="w-full md:w-auto p-2"><a class="block w-full px-12 py-3.5 text-lg text-center text-white font-bold bg-yellow-500 hover:bg-yellow-600 focus:ring-4 focus:ring-gray-600 rounded-md" href="https://book-directonline.com/properties/tcgardenresortlangkawidirect
+">Book Now</a></div>
+                    </div>
+
+                  </div>
+                </div>
+
               </div>
+
             </div>
           </div>
         </div>
