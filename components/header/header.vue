@@ -1,6 +1,6 @@
 <template xmlns="http://www.w3.org/1999/html">
     <div>
-      <section class="relative w-screen h-screen bg-top bg-cover md:bg-center" style="background-image:url('https://res.cloudinary.com/dgsljij3o/image/upload/v1686398741/TC/palm-tree-in-tropical-garden-2022-12-29-02-40-50-utc_1_vypze0.jpg')">
+      <section class="relative w-screen h-screen bg-top bg-cover md:bg-center" style="background-image:url('https://res.cloudinary.com/dgsljij3o/image/upload/v1686398741/TC/palm-tree-in-tropical-garden-2022-12-29-02-40-50-utc_1_vypze0.webp')">
         <div class="absolute inset-0 w-full h-full bg-gray-900 opacity-25"></div>
         <div class="absolute inset-0 w-full h-64 opacity-50 bg-gradient-to-b from-black to-transparent"></div>
 <!--        Navbar -->

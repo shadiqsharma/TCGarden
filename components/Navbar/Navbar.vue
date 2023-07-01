@@ -23,9 +23,12 @@
              class="absolute left-0 mt-2 w-48 rounded-md shadow-lg bg-white z-50">
           <div class="py-1 rounded-md bg-white shadow-xs">
             <nuxt-link to="/deluxeking" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe King Villa</nuxt-link>
-            <nuxt-link to="/deluxetriple" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe Triple Villa</nuxt-link>
-
             <nuxt-link to="/deluxetwin" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Deluxe Twin Villa</nuxt-link>
+            <nuxt-link to="/exectriple" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Executive Triple Villa</nuxt-link>
+            <nuxt-link to="/exectwin" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Executive Twin Villa</nuxt-link>
+            <nuxt-link to="/execqueen" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Executive Queen Villa</nuxt-link>
+
+
           </div>
         </div>
       </a>
@@ -66,8 +69,11 @@
                  class="absolute left-0 mt-2 w-48 rounded-md shadow-lg bg-white z-50">
               <div class="py-1 rounded-md bg-white shadow-xs">
                 <nuxt-link to="/deluxeking" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe King Villa</nuxt-link>
-                <nuxt-link to="/deluxetriple" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe Triple Villa</nuxt-link>
                 <nuxt-link to="/deluxetwin" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Deluxe Twin Villa</nuxt-link>
+                <nuxt-link to="/exectriple" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Executive Triple Villa</nuxt-link>
+                <nuxt-link to="/exectwin" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Executive Twin Villa</nuxt-link>
+                <nuxt-link to="/execqueen" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Executive Queen Villa</nuxt-link>
+
               </div>
             </div>
           </a>
