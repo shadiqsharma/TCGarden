@@ -27,7 +27,6 @@ export default {
   plugins: [
     '~plugins/OwlCarousel.client.js',
     '~/plugins/click-outside.js',
-    '~/plugins/VueSocialChat.client.js'
 
   ],
 

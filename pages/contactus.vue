@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="py-20 bg-white" style="background-image: url('flex-ui-assets/elements/pattern-white.svg'); background-position: center;">
+    <section class="py-20 bg-white">
       <div class="container px-4 mx-auto">
         <div class="flex flex-wrap mb-24 lg:mb-16 justify-between items-center">
           <div class="w-full lg:w-1/2 mb-10 lg:mb-0">
@@ -37,54 +37,26 @@
 
           </div>
           <div class="w-full lg:w-1/2 px-4">
-            <GoogleMap/>
+
           </div>
+
         </div>
-        <SocialChat
-          icon
-          :attendants="attendants"
-        >
-          <p slot="header">Click on one of our attendants below to chat on WhatsApp.</p>
-          <template v-slot:button>
-            <img
-              src="https://res.cloudinary.com/dgsljij3o/image/upload/v1656417854/whatsapp-icon-seeklogo.com_elquwo.svg"
-              alt="icon whatsapp"
-              aria-hidden="true"
-            >
-          </template>
-          <small slot="footer">Opening hours: 8am to 11pm</small>
-        </SocialChat>
+
       </div>
     </section>
   </div>
 </template>
 
 <script>
-import GoogleMap from "@/components/GoogleMap/GoogleMap";
-import { SocialChat } from 'vue-social-chat'
-export default {
-  components: {GoogleMap, SocialChat
-  },
-  data: () => ({
-    attendants: [
-      {
-        app: 'whatsapp',
-        label: 'Support',
-        name: 'Front Office',
-        number: '60123162149',
-        avatar: {
-          src: 'https://avatars0.githubusercontent.com/u/8084606?s=460&u=20b6499a416cf7129a18e5c168cf387e159edb1a&v=4',
-          alt: 'Alan Ktquez avatar'
-        }
-      },
-      // ...
-    ]
-  })
 
+
+export default {
+  components: {
+  },
 }
 </script>
 
-<style scoped>
---vsc-outline-color: #333;
+<style>
+
 
 </style>
