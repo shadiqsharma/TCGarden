@@ -40,7 +40,7 @@
       <nuxt-link to="/about" class="relative text-lg font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-white md:text-sm">
         <span class="block">About Us</span>
       </nuxt-link>
-      <nuxt-link to="/" class="relative text-lg font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-sm md:text-white">
+      <nuxt-link to="/contactus" class="relative text-lg font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-sm md:text-white">
         <span class="block">Contact Us</span>
       </nuxt-link>
 
@@ -90,7 +90,7 @@
           </a>
         </li>
         <li class="mb-4">
-          <a href="#_" class="relative text-xl font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-sm text-white">
+          <a href="/contactus" class="relative text-xl font-medium tracking-wide text-blue-700 transition duration-150 ease-out md:text-sm text-white">
             <span class="block">Contact</span>
           </a>
         </li>
