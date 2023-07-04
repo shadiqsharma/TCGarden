@@ -36,12 +36,31 @@
             </div>
 
           </div>
-          <div class="w-full lg:w-1/2 px-4">
 
+          <div class="w-full lg:w-1/2 px-4">
+            <div>
+              <h2 class="text-2xl font-extrabold text-gray-900 sm:text-3xl">Google Map</h2>
+              <div style="width: 100%"><iframe class="rounded-2xl" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=tc%20garden%20resort+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+
+            </div>
           </div>
 
         </div>
-
+        <SocialChat
+          icon
+          :attendants="attendants"
+        >
+          <p slot="header">Click on one of our attendants below to chat on WhatsApp.</p>
+          <template v-slot:button>
+            <img
+              src="https://res.cloudinary.com/dgsljij3o/image/upload/v1656417854/whatsapp-icon-seeklogo.com_elquwo.svg"
+              alt="icon whatsapp"
+              aria-hidden="true"
+              class="px-4 "
+            >
+          </template>
+          <small slot="footer">Opening hours: 8am to 11pm</small>
+        </SocialChat>
       </div>
     </section>
   </div>
@@ -50,9 +69,27 @@
 <script>
 
 
+import GoogleMaps from "@/components/GoogleMaps/GoogleMaps";
+import { SocialChat } from 'vue-social-chat'
 export default {
   components: {
+    GoogleMaps, SocialChat
   },
+  data: () => ({
+    attendants: [
+      {
+        app: 'whatsapp',
+        label: 'Front Office',
+        name: 'Front Officer',
+        number: '60123162149',
+        avatar: {
+          src: 'https://res.cloudinary.com/dgsljij3o/image/upload/v1688483873/TC/front-desk_hires_ggfx6r.png',
+          alt: 'Front Office'
+        }
+      },
+      // ...
+    ]
+  })
 }
 </script>
 
