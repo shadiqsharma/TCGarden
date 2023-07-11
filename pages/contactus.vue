@@ -31,7 +31,7 @@
               </div>
               <div class="mt-2">
                 <h3 class="mb-2 text-2xl md:text-3xl leading-9 text-coolGray-900 font-bold">Phone</h3>
-                <p class="text-lg text-coolGray-500 hover:text-coolGray-600 font-medium">+6012 3162149</p>
+                <p class="text-lg text-coolGray-500 hover:text-coolGray-600 font-medium">+6013 2555051</p>
               </div>
             </div>
 
@@ -81,7 +81,7 @@ export default {
         app: 'whatsapp',
         label: 'Front Office',
         name: 'Front Officer',
-        number: '60123162149',
+        number: '60132555051',
         avatar: {
           src: 'https://res.cloudinary.com/dgsljij3o/image/upload/v1688483873/TC/front-desk_hires_ggfx6r.png',
           alt: 'Front Office'

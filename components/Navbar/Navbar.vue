@@ -27,6 +27,7 @@
             <nuxt-link to="/exectriple" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Executive Triple Villa</nuxt-link>
             <nuxt-link to="/exectwin" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Executive Twin Villa</nuxt-link>
             <nuxt-link to="/execqueen" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Executive Queen Villa</nuxt-link>
+            <nuxt-link to="/deluxequad" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Executive Quad Villa</nuxt-link>
 
 
           </div>
@@ -73,6 +74,7 @@
                 <nuxt-link to="/exectriple" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Executive Triple Villa</nuxt-link>
                 <nuxt-link to="/exectwin" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Executive Twin Villa</nuxt-link>
                 <nuxt-link to="/execqueen" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Executive Queen Villa</nuxt-link>
+                <nuxt-link to="/deluxequad" @click.native.prevent="closeMenu" class="block px-4 py-2 text-sm text-gray-700 hover:bg-yellow-500">Executive Quad Villa</nuxt-link>
 
               </div>
             </div>
