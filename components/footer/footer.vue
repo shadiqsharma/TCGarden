@@ -9,7 +9,7 @@
                 <div class="w-auto p-4">
                   <ul class="-m-6">
                     <li class="inline-flex p-6"><a class="inline-block text-gray-500 hover:text-gray-600 font-bold" href="/terms">Terms & Condition</a></li>
-                    <li class="inline-flex p-6"><a class="inline-block text-gray-500 hover:text-gray-600 font-bold" href="#">Privacy Policy</a></li>
+                    <li class="inline-flex p-6"><a class="inline-block text-gray-500 hover:text-gray-600 font-bold" href="/privacy">Privacy Policy</a></li>
                     <li class="inline-flex p-6"><a class="inline-block text-gray-500 hover:text-gray-600 font-bold" href="#">Cancellation Policy</a></li>
                     <li class="inline-flex p-6"><a class="inline-block text-gray-500 hover:text-gray-600 font-bold" href="#">Contact Us</a></li>
                   </ul>
