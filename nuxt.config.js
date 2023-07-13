@@ -44,7 +44,11 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    '@nuxtjs/google-analytics'
   ],
+  googleAnalytics: {
+    id: 'G-YN0WTGMJ87' // Replace with your Tracking ID
+  },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {

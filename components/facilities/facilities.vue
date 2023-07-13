@@ -8,7 +8,7 @@
                 <div class="max-w-md">
                   <span class="text-orange-500 font-bold">Coming Soon!</span>
                   <h2 class="mb-3 text-4xl lg:text-5xl font-bold font-heading">Our Facilities</h2>
-                  <p class="mb-6 max-w-sm text-gray-400 leading-loose">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur nisl sodales egestas lobortis.</p>
+                  <p class="mb-6 max-w-sm text-gray-400 leading-loose">Discover the array of facilities at our garden resort, designed for your enjoyment and convenience.</p>
                   <ul class="text-gray-500 font-bold">
                     <li class="mb-2 flex items-center">
                       <svg class="mr-2 w-5 h-5 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
