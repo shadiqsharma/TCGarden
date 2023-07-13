@@ -3,7 +3,8 @@
     <Header />
     <rooms />
     <facilities />
-
+  <!-- Create Promotion Pop Up Here   -->
+    <!--    <popup/> -->
   </div>
 </template>
 
@@ -11,9 +12,10 @@
 import Facilities from "@/components/facilities/facilities";
 import rooms from "@/components/rooms/rooms";
 import Navbar from "@/components/Navbar/Navbar";
+import Popup from "@/components/popup/popup";
 
 export default {
   name: 'IndexPage',
-  components: {Navbar, Facilities, rooms},
+  components: {Popup, Navbar, Facilities, rooms},
 }
 </script>

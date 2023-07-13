@@ -2,18 +2,50 @@
   <div>
     <section class="py-10 bg-gray-50 overflow-hidden">
       <div class="container mx-auto px-4">
-        <div class="py-16 px-8 bg-white rounded-3xl shadow-sm">
-          <div class="max-w-7xl mx-auto">
-            <div class="mb-12 md:max-w-4xl mx-auto text-center">
-              <h2 class="font-heading mb-6 text-4xl md:text-5xl lg:text-6xl text-gray-900 font-black tracking-tight">About Us</h2>
-              <p class="md:max-w-md mx-auto text-gray-500 font-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Malesuada tellus vestibulum, commodo pulvinar.</p>
-            </div>
+        <div class="relative isolate overflow-hidden bg-yellow-500 py-24 sm:py-32 rounded-3xl">
+          <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&crop=focalpoint&fp-y=.8&w=2830&h=1500&q=80&blend=111827&sat=-100&exp=15&blend-mode=multiply" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover object-right md:object-center">
+          <div class="hidden sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:transform-gpu sm:blur-3xl" aria-hidden="true">
+            <div class="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-[#ff4694] to-[#776fff] opacity-20" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+          </div>
+          <div class="absolute -top-52 left-1/2 -z-10 -translate-x-1/2 transform-gpu blur-3xl sm:top-[-28rem] sm:ml-16 sm:translate-x-0 sm:transform-gpu" aria-hidden="true">
+            <div class="aspect-[1097/845] w-[68.5625rem] bg-gradient-to-tr from-[#ff4694] to-[#776fff] opacity-20" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+          </div>
+          <div class="mx-auto max-w-7xl px-6 lg:px-8">
+            <div class="mx-auto max-w-2xl lg:mx-0">
+              <h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">About us</h2>
+              <p class="mt-6  leading-8 text-gray-300">Welcome to TC Garden Resort, a tranquil retreat nestled in Langkawi, expertly managed by Tropical Charters Sdn Bhd. For 14 years, we've carved a distinguished spot in the tourism industry, consistently delivering unforgettable experiences under the visionary leadership of Dato' Alex. Our passionate team, dedicated to creating memories rather than just holidays, combines traditional Langkawi charm with cutting-edge services, setting us apart in a league of our own.
 
-            <div class="flex flex-wrap md:justify-center -m-2">
-              <div class="w-full md:w-auto p-2"><a class="block w-full px-12 py-3.5 text-lg text-center text-white font-bold bg-yellow-500 hover:bg-yellow-600 focus:ring-4 focus:ring-gray-600 rounded-md" href="#">Book Now</a></div>
+                Our company culture is a harmony of innovation, tradition, and unwavering commitment to guest satisfaction. At TC Garden Resort, choosing us means choosing a blend of experience, innovation, and a relentless passion for excellence. We're not just offering a stay but a memorable journey that reflects the true essence of Langkawi. Welcome to TC Garden Resort - your home away from home.</p>
+            </div>
+            <div class="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
+              <div class="grid grid-cols-1 gap-x-8 gap-y-6 text-base font-semibold leading-7 text-white sm:grid-cols-2 md:flex lg:gap-x-10">
+                <a href="#">Open roles <span aria-hidden="true">&rarr;</span></a>
+                <a href="#">Internship program <span aria-hidden="true">&rarr;</span></a>
+                <a href="#">Our values <span aria-hidden="true">&rarr;</span></a>
+                <a href="#">Meet our leadership <span aria-hidden="true">&rarr;</span></a>
+              </div>
+              <dl class="mt-16 grid grid-cols-1 gap-8 sm:mt-20 sm:grid-cols-2 lg:grid-cols-4">
+                <div class="flex flex-col-reverse">
+                  <dt class="text-base leading-7 text-gray-300">Operating</dt>
+                  <dd class="text-2xl font-bold leading-9 tracking-tight text-white">14 years</dd>
+                </div>
+                <div class="flex flex-col-reverse">
+                  <dt class="text-base leading-7 text-gray-300">Sample Stats</dt>
+                  <dd class="text-2xl font-bold leading-9 tracking-tight text-white">100</dd>
+                </div>
+                <div class="flex flex-col-reverse">
+                  <dt class="text-base leading-7 text-gray-300">Awards</dt>
+                  <dd class="text-2xl font-bold leading-9 tracking-tight text-white">20</dd>
+                </div>
+                <div class="flex flex-col-reverse">
+                  <dt class="text-base leading-7 text-gray-300">CSR</dt>
+                  <dd class="text-2xl font-bold leading-9 tracking-tight text-white">50 intiatives</dd>
+                </div>
+              </dl>
             </div>
           </div>
         </div>
+
       </div>
     </section>
   </div>
