@@ -15,7 +15,15 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script: [
-
+        {
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-YN0WTGMJ87',
+          async: true,
+        },
+        {
+          hid: 'gtag-init',
+          src: '/gtag-init.js',
+          async: true,
+        },
       ]
   },
 
@@ -27,7 +35,8 @@ export default {
   plugins: [
     '~plugins/OwlCarousel.client.js',
     '~/plugins/click-outside.js',
-    '~/plugins/vue-social-chat.client.js'
+    '~/plugins/vue-social-chat.client.js',
+
 
   ],
 
@@ -38,17 +47,16 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
-    '@nuxtjs/google-analytics'
+
   ],
-  googleAnalytics: {
-    id: 'G-YN0WTGMJ87' // Replace with your Tracking ID
-  },
+
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
