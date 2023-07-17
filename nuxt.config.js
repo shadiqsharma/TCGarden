@@ -15,15 +15,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script: [
-        {
-          src: 'https://www.googletagmanager.com/gtag/js?id=G-YN0WTGMJ87',
-          async: true,
-        },
-        {
-          hid: 'gtag-init',
-          src: '/gtag-init.js',
-          async: true,
-        },
+
       ]
   },
 
@@ -54,6 +46,11 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    ['@nuxtjs/google-gtag', {
+      /* module options */
+      id: 'G-YN0WTGMJ87',  // Replace with your Google Analytics ID
+      debug: true, // Enable to track in development mode. Note that this will include a console log when running on localhost.
+    }]
 
   ],
 
