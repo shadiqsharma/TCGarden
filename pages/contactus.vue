@@ -81,7 +81,7 @@ export default {
         app: 'whatsapp',
         label: 'Front Office',
         name: 'Front Officer',
-        number: '60132555051',
+        number: '60135116821',
         avatar: {
           src: 'https://res.cloudinary.com/dgsljij3o/image/upload/v1688483873/TC/front-desk_hires_ggfx6r.png',
           alt: 'Front Office'

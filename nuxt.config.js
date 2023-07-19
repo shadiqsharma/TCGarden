@@ -49,7 +49,7 @@ export default {
     ['@nuxtjs/google-gtag', {
       /* module options */
       id: 'G-YN0WTGMJ87',  // Replace with your Google Analytics ID
-      debug: true, // Enable to track in development mode. Note that this will include a console log when running on localhost.
+      debug: false, // Enable to track in development mode. Note that this will include a console log when running on localhost.
     }]
 
   ],
