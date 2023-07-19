@@ -8,11 +8,11 @@
         <carousel :responsive="{0:{items:1,nav:false},600:{items:2,nav:false},1024:{items:3,nav:false}}"
                   class="w-auto h-auto">
           <div class="container px-2">
-            <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1687524716/TC/deluxe%20king%20rooom/IMG_2022_kclx3h.jpg" class="w-full h-72 object-cover rounded-2xl">
+            <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1689748166/TC/deluxe%20twin%20room/0048A579-6587-4D73-AF64-1B55F72BB9C0_nclvd6.jpg" class="w-full h-72 object-cover rounded-2xl">
             <p class="text-center px-2 py-4">Bedroom</p>
           </div>
           <div class="container px-2">
-            <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1687524716/TC/deluxe%20king%20rooom/IMG_2024_tmy2ry.jpg" class="w-full h-72 object-cover rounded-2xl">
+            <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1689748166/TC/deluxe%20twin%20room/60145620-B60D-4273-A70C-2744978C8639_soya4l.jpg" class="w-full h-72 object-cover rounded-2xl">
             <p class="text-center px-2 py-4">Bed View</p>
           </div>
           <div class="container px-2">
