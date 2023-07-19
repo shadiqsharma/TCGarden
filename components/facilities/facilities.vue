@@ -43,7 +43,7 @@
               <div class="w-full lg:w-1/2">
                 <div class="mb-4 flex flex-wrap items-end">
                   <div class="mb-4 lg:mb-0 w-full lg:w-2/3 px-3">
-                    <img class="w-full h-32 lg:h-48 object-cover rounded-3xl shadow-lg" src="https://res.cloudinary.com/dgsljij3o/image/upload/f_auto/v1686665817/TC/bbqpit_m2p68r.webp" alt="">
+                    <img class="w-full h-32 lg:h-48 object-cover rounded-3xl shadow-lg" src="https://res.cloudinary.com/dgsljij3o/image/upload/v1689746679/TC/close-up-plastic-table-football-game-at-entertainm-2021-08-26-19-57-10-utc_uiyr6o.webp" alt="">
                   </div>
                   <div class="w-full lg:w-1/3 px-3">
                     <img class="w-full h-32 object-cover rounded-3xl shadow-lg" src="https://res.cloudinary.com/dgsljij3o/image/upload/f_auto/v1686572394/TC/drone-picture-of-a-room-with-pool-in-the-forest-2021-08-26-16-01-32-utc_1_dpmqe8.webp" alt="">
