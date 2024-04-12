@@ -23,7 +23,7 @@
               </div>
             </div>
           </div>
-          <p class="text-center font-bold text-xs"><span>Ⓒ Copyright. All rights reserved by </span><a class="text-yellow-500 hover:text-yellow-600" href="#">Tropical Charter Sdn Bhd</a></p>
+          <p class="text-center font-bold text-xs"><span>Ⓒ Copyright. All rights reserved by </span><a class="text-yellow-500 hover:text-yellow-600" href="#">Tropical Charter Sdn Bhd (200901012297)</a></p>
         </div>
       </section>
     </div>
